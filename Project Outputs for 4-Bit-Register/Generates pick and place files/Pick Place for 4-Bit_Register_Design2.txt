@@ -1,0 +1,97 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Discrete_CPU\PCB_Project\Project Outputs for 4-Bit-Register\Generates pick and place files\Pick Place for 4-Bit_Register_Design2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/06/23
+Time:       01:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                    Layer    Footprint                   Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                         
+R20        100R                       TopLayer R1206                       1322.835      767.716       270      "Part (FCR1206J100RP05Z) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/Ever_OhmsTech-FCR1206J100RP05Z/C153338" 
+R19        100R                       TopLayer R1206                       905.512       787.402       90       "Part (FCR1206J100RP05Z) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/Ever_OhmsTech-FCR1206J100RP05Z/C153338" 
+R18        1000R                      TopLayer R0805                       1322.835      153.543       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R17        1000R                      TopLayer R0805                       1322.835      307.087       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R16        1000R                      TopLayer R0805                       906.496       153.543       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R15        1000R                      TopLayer R0805                       906.476       306.158       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R14        1000R                      TopLayer R0805                       1322.835      460.630       90       "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R13        1000R                      TopLayer R0805                       1322.835      614.173       90       "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R12        1000R                      TopLayer R0805                       906.496       460.630       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R11        1000R                      TopLayer R0805                       906.496       614.173       90       "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R10        100R                       TopLayer R1206                       492.126       787.402       90       "Part (FCR1206J100RP05Z) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/Ever_OhmsTech-FCR1206J100RP05Z/C153338" 
+R9         100R                       TopLayer R1206                       78.740        787.402       90       "Part (FCR1206J100RP05Z) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/Ever_OhmsTech-FCR1206J100RP05Z/C153338" 
+R8         1000R                      TopLayer R0805                       488.189       153.543       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R7         1000R                      TopLayer R0805                       488.189       307.087       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R6         1000R                      TopLayer R0805                       78.740        153.543       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R5         1000R                      TopLayer R0805                       78.740        307.087       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R4         1000R                      TopLayer R0805                       488.189       460.630       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R3         1000R                      TopLayer R0805                       488.189       614.173       90       "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R2         1000R                      TopLayer R0805                       78.740        460.630       270      "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+R1         1000R                      TopLayer R0805                       78.740        614.173       90       "Part (
+ARG05FTC1001) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/VikingTech-ARG05FTC1001/C218388"          
+Q40        N_MOSFET                   TopLayer SOT23-3                     1598.071      153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q39        N_MOSFET                   TopLayer SOT23-3                     1444.461      153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q38        N_MOSFET                   TopLayer SOT23-3                     1182.086      153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q37        N_MOSFET                   TopLayer SOT23-3                     1028.543      153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q36        N_MOSFET                   TopLayer SOT23-3                     1598.425      287.401       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q35        N_MOSFET                   TopLayer SOT23-3                     1444.882      287.401       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q34        N_MOSFET                   TopLayer SOT23-3                     1182.086      287.402       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q33        N_MOSFET                   TopLayer SOT23-3                     1028.543      287.402       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q32        N_MOSFET                   TopLayer SOT23-3                     1444.882      421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q31        N_MOSFET                   TopLayer SOT23-3                     1028.543      421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q30        N_MOSFET                   TopLayer SOT23-3                     1598.425      421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q29        N_MOSFET                   TopLayer SOT23-3                     1444.882      555.118       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q28        N_MOSFET                   TopLayer SOT23-3                     1182.086      421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q27        N_MOSFET                   TopLayer SOT23-3                     1028.543      555.118       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q26        N_MOSFET                   TopLayer SOT23-3                     1444.882      688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q25        N_MOSFET                   TopLayer SOT23-3                     1028.543      688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q24        N_MOSFET                   TopLayer SOT23-3                     1598.425      555.118       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q23        N_MOSFET                   TopLayer SOT23-3                     1598.425      688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q22        N_MOSFET                   TopLayer SOT23-3                     1182.086      555.118       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q21        N_MOSFET                   TopLayer SOT23-3                     1182.086      688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q20        N_MOSFET                   TopLayer SOT23-3                     763.779       153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q19        N_MOSFET                   TopLayer SOT23-3                     606.299       153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q18        N_MOSFET                   TopLayer SOT23-3                     346.457       153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q17        N_MOSFET                   TopLayer SOT23-3                     196.850       153.543       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q16        N_MOSFET                   TopLayer SOT23-3                     763.779       287.402       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q15        N_MOSFET                   TopLayer SOT23-3                     606.299       287.402       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q14        N_MOSFET                   TopLayer SOT23-3                     346.457       287.402       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q13        N_MOSFET                   TopLayer SOT23-3                     196.850       287.402       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q12        N_MOSFET                   TopLayer SOT23-3                     606.299       421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q11        N_MOSFET                   TopLayer SOT23-3                     196.850       421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q10        N_MOSFET                   TopLayer SOT23-3                     763.779       421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q9         N_MOSFET                   TopLayer SOT23-3                     606.299       555.118       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q8         N_MOSFET                   TopLayer SOT23-3                     346.457       421.260       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q7         N_MOSFET                   TopLayer SOT23-3                     196.850       553.150       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q6         N_MOSFET                   TopLayer SOT23-3                     606.299       688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q5         N_MOSFET                   TopLayer SOT23-3                     196.850       688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q4         N_MOSFET                   TopLayer SOT23-3                     763.779       555.118       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q3         N_MOSFET                   TopLayer SOT23-3                     763.779       688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q2         N_MOSFET                   TopLayer SOT23-3                     346.457       555.118       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+Q1         N_MOSFET                   TopLayer SOT23-3                     346.457       688.976       90       "Part (2N7002KQ-71) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/DiodesIncorporated-2N7002KQ7/C111971"        
+J4         Jumper_4x1_castellated     TopLayer JUMPER_1X4_CASTELLATED      856.299       960.630       180      "Castellated Edge"                                                                                                                  
+J3         Jumper_2x1_castellated     TopLayer JUMPER_1X2_CASTELLATED      1256.299      0.000         0        "Castellated Edge"                                                                                                                  
+J2         Jumper_4x1_castellated     TopLayer JUMPER_1X4_CASTELLATED      856.299       0.000         0        "Castellated Edge"                                                                                                                  
+J1         Jumper_PWR_CLK_castellated TopLayer JUMPER_PWR_CLK__CASTELLATED 1306.299      960.630       180      "Castellated edge"                                                                                                                  
+D4         Blue_LED                   TopLayer LED1206_BLUE                1531.496      811.024       0        "Part (NCD1206B1) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/142006-NCD1206B1/C130717"                      
+D3         Blue_LED                   TopLayer LED1206_BLUE                1125.880      809.991       0        "Part (NCD1206B1) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/142006-NCD1206B1/C130717"                      
+D2         Blue_LED                   TopLayer LED1206_BLUE                708.069       809.991       0        "Part (NCD1206B1) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/142006-NCD1206B1/C130717"                      
+D1         Blue_LED                   TopLayer LED1206_BLUE                292.392       807.237       0        "Part (NCD1206B1) can be found on JLCPCB Parts Search: https://jlcpcb.com/partdetail/142006-NCD1206B1/C130717"                      

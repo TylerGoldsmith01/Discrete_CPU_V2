@@ -1,0 +1,29 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:18:53 AM On 6/18/2023
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [4-Bit_Register_Design2.PcbDoc]
+   Generated File[4-Bit_Register_Design2_Copper_Signal_Top.gbr]
+   Generated File[4-Bit_Register_Design2_Copper_Signal_Bot.gbr]
+   Generated File[4-Bit_Register_Design2_Legend_Top.gbr]
+   Generated File[4-Bit_Register_Design2_Legend_Bot.gbr]
+   Generated File[4-Bit_Register_Design2_Soldermask_Top.gbr]
+   Generated File[4-Bit_Register_Design2_Soldermask_Bot.gbr]
+   Generated File[4-Bit_Register_Design2_Paste_Top.gbr]
+   Generated File[4-Bit_Register_Design2_Paste_Bot.gbr]
+   Generated File[4-Bit_Register_Design2_Board_Outline.gbr]
+   Generated File[4-Bit_Register_Design2_Profile.gbr]
+   Generated File[4-Bit_Register_Design2_NPTH_Drill.gbr]
+   Generated File[4-Bit_Register_Design2_PTH_Drill.gbr]
+   Generated File[4-Bit_Register_Design2_Drawing_1.gbr]
+   Generated File[4-Bit_Register_Design2_Drillmap_1.gbr]
+   Generated File[4-Bit_Register_Design2.EXTREP]
+   Generated File[4-Bit_Register_Design2.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 2:18:56 AM On 6/18/2023
